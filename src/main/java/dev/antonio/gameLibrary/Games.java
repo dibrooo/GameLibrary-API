@@ -19,7 +19,7 @@ public class Games {
     private ObjectId id;
     private String name;
     private String description;
-    private List<String> tags;
+    private List<String> categories;
     private Float price;
     private Integer rating;
     private Date release_date;
