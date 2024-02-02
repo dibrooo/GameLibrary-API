@@ -1,4 +1,4 @@
-package dev.antonio.gameLibrary;
+package dev.antonio.gameLibrary.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
