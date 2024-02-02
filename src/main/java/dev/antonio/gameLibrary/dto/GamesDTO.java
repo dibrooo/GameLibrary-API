@@ -1,4 +1,4 @@
-package dev.antonio.gameLibrary;
+package dev.antonio.gameLibrary.dto;
 
 import lombok.Data;
 
