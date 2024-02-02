@@ -1,5 +1,8 @@
-package dev.antonio.gameLibrary;
+package dev.antonio.gameLibrary.service;
 
+import dev.antonio.gameLibrary.dto.GamesDTO;
+import dev.antonio.gameLibrary.entity.Games;
+import dev.antonio.gameLibrary.repository.GamesRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
